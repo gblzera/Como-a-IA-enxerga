@@ -92,7 +92,7 @@ cd SEU_REPOSITORIO
 
 ### Instalar dependências
 
-> 💡 Recomenda-se o uso de um ambiente virtual (venv).
+> Recomenda-se o uso de um ambiente virtual (venv).
 
 ```bash
 pip install -r requirements.txt
